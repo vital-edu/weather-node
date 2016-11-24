@@ -10,6 +10,7 @@
   "author": "Eduardo Vital Alencar Cunha",
   "license": "AGPL-3.0",
   "dependencies": {
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "yargs": "^6.4.0"
   }
 }
